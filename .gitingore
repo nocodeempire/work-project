@@ -1,0 +1,7 @@
+.git
+**/.git/
+**/.vscode
+**/node_module
+**/node_module/
+**/dist
+*/logs/

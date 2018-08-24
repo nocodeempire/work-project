@@ -1,0 +1,8 @@
+[2018-03-15 15:03:37.361] [INFO] info - =======request_url=======:/ 
+[2018-03-15 15:03:37.370] [INFO] info - request_params:{}
+[2018-03-15 15:03:37.531] [INFO] info - =======request_url=======:/favicon.ico 
+[2018-03-15 15:03:37.532] [INFO] info - request_params:{}
+[2018-03-15 15:04:05.993] [INFO] info - =======request_url=======:/allHouse 
+[2018-03-15 15:04:05.993] [INFO] info - request_params:{}
+[2018-03-15 15:04:16.077] [INFO] info - =======request_url=======:/detailsPage 
+[2018-03-15 15:04:16.077] [INFO] info - request_params:{}

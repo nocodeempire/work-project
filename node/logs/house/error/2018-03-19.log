@@ -1,0 +1,35 @@
+[2018-03-19 11:36:10.200] [ERROR] error - rentalManage Api==>getList:{"api":{},"render":{},"modal":{}}
+[2018-03-19 11:36:10.568] [ERROR] error - userContext middlewares errors:{}
+[2018-03-19 11:36:12.789] [ERROR] error - oldHouseManage Api==>getList:{"api":{},"render":{},"modal":{}}
+[2018-03-19 11:36:13.158] [ERROR] error - userContext middlewares errors:{}
+[2018-03-19 13:42:44.000] [ERROR] error - userContext middlewares errors:{}
+[2018-03-19 13:43:06.508] [ERROR] error - Common_user_SOA_Error==>opts:{"url":"https://yun2.dev.wkzf/housebs/user/getCurrentUser.action","timeout":60000,"json":true,"method":"get","headers":{"cookie":"sid=9a1b253cef674d2c95a3534e29d1e88f;CASTGC=TGT-7-7Pkx3Ml7tIcEivhjGUIpsoZC7DjmpbDMLzobD1qb5PKHHMHeW9-cas01.example.org;wksso=1d98c8a1-81f8-4573-95bb-50512d27f70e;JSESSIONID=79E9974BCA400E314ED10B3119DF17DC;connect.sid=s:9gEl2JysugJAaYLd2R61kp94j46EF2MW.MswvEpFQ1fc/SU526LcKCeHb965tVsden3sdglU+g48"}}
+[2018-03-19 13:43:06.512] [ERROR] error - Common_user_SOA_Error==>name:StatusCodeError,message:502 - "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.8.1</center>\r\n</body>\r\n</html>\r\n"
+[2018-03-19 13:43:06.515] [ERROR] error - userContext middlewares errors:{"api":{},"render":{},"modal":{}}
+[2018-03-19 14:23:20.827] [ERROR] error - userContext middlewares errors:{}
+[2018-03-19 15:06:20.262] [ERROR] error - oldHouseCheck Api==>getRealSceneDetailList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:20.611] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:20.640] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:20.960] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:21.022] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:21.358] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:21.392] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:21.744] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:21.773] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:22.087] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:22.128] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:22.441] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:22.486] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:22.789] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:22.859] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:23.172] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:23.242] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:23.572] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:23.609] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:23.971] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:23.992] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:06:24.316] [ERROR] error - public Api==>getCityAll:{"api":{},"render":{},"modal":{}}
+[2018-03-19 15:06:24.371] [ERROR] error - oldHouseCheck Api==>getRealSceneList:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 15:49:37.182] [ERROR] error - userContext middlewares errors:{}
+[2018-03-19 17:02:30.867] [ERROR] error - wkHeadline Api==>list:Error: {"status":1502,"message":"登陆信息过期","data":"{\"isSuccess\":1,\"messageInfo\":\"errcode 001502,页面超时\",\"messageNo\":1502,\"messageUser\":\"页面超时\"}"}
+[2018-03-19 17:02:31.213] [ERROR] error - userContext middlewares errors:{}
